@@ -1,0 +1,27 @@
+_repo: Marathon_33641
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33641-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Betz, Gerardus Henri
+    alias: Betz, G. H.
+    birthdate: 1850
+    deathdate: 1900
+    gutenberg_agent_id: '36514'
+    url: http://www.gutenberg.org/2009/agents/36514
+description: ''
+gutenberg_issued: '2010-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33641'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PT'
+title: Marathon
+url: http://www.gutenberg.org/ebooks/33641
